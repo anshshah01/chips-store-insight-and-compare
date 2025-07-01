@@ -1,3 +1,5 @@
 # Quantium virtual internship task-1,2
-
-# chips-trial-store-comparision
+## Task-1
+### get Insights
+## Task-2
+### Trial-store-comparision
